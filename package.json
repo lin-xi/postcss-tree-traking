@@ -1,6 +1,6 @@
 {
   "name": "postcss-tree-shaking",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "a postcss plugin to shake unused css code.",
   "repository": {
     "type": "git",
